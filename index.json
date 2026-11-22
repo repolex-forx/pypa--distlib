@@ -3,6 +3,11 @@
   "repo": "distlib",
   "versions": [
     {
+      "commit": "aff2cbbc4e8a87b9440cb93472789a213813dbd6",
+      "tag": "0.4.0",
+      "parsed_at": "2026-11-22T01:52:00.344266+00:00"
+    },
+    {
       "commit": "454a87c64f0b545138dc4798aa833a4ff8ac2377",
       "tag": "",
       "parsed_at": "2026-10-11T22:45:59.909571+00:00"
